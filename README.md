@@ -21,6 +21,7 @@ b = a[2:4] print(b). a[2:4] adalah mengambil sebuah data pada list a dan akan me
 Contoh:b=[6, 8, 15] b.extend([16, 17, 18]). menambahkan 3 angka sekaligus ke dalam list b.Contoh:b=[6, 8, 15, 16, 17, 18] 
 
 c = a+b. c adalah jumlah. a+b adalah list yang akan di gabungkan menjadi satu. print(c). maka hasil yg akan muncul dari (c) adalah :[1, 4, 6, 8, 90, 20, 6, 8, 15, 16, 17, 18]. berikut gambar list nya.
+![1](https://user-images.githubusercontent.com/60466120/73442357-4675e980-4387-11ea-9d49-732cb3548fdc.png)
 
 #Cara Membuat sebuah data kedalam sebuah list.
 #Tugas Pratikum
@@ -33,5 +34,8 @@ c = a+b. c adalah jumlah. a+b adalah list yang akan di gabungkan menjadi satu. p
 4). Setelah kita meng Input smua data kita. Tahap selanjutnya, kita gunakan syntax float untuk TUGAS,UAS,UTS,nilai. fungsi float() berfungsi mengubah bilangan menjadi float. contoh syntax float(): float([x]). berikut gambar cara membuat pemograman sederhana untuk menambahkan data ke dalam list. 
 
 5). Disini selain menggunakan syntax while. Kita juga harus menggunakan syntax FOR I IN RANGE(). yaitu untuk menampilkan sebuah data pada tabel. berikut gambarnya.
+![2](https://user-images.githubusercontent.com/60466120/73442358-4675e980-4387-11ea-94c2-3d5832e44376.png)
+![2a](https://user-images.githubusercontent.com/60466120/73442360-470e8000-4387-11ea-901c-bdf5fa81b66b.png)
 
 #FLOWCHART Tugas Pratikum.
+![Flowchart](https://user-images.githubusercontent.com/60466120/73442361-470e8000-4387-11ea-8c26-94a402f2cbcd.png)
